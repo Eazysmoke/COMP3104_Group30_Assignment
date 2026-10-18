@@ -1,0 +1,12 @@
+DevOps Course
+Mechel Fernando - 101352126
+
+DevOps connects software development and IT operations.
+The assignment refers to COMP2156, while my course is COMP3104.
+In this course, we practise Git, GitHub, branching, and continuous integration.
+Git tracks changes locally, while GitHub stores repositories online and supports collaboration.
+
+A branch lets a developer work on changes separately from main.
+A pull request shows the proposed changes before they are merged.
+Continuous integration runs automated checks when changes are pushed.
+In this assignment, GitHub Actions checks that my required text files are not empty.

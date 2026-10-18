@@ -1,0 +1,9 @@
+George Brown College
+Mechel Fernando - 101352126
+
+George Brown College is a public college in Toronto, Ontario.
+I am studying Computer Programming and Analysis.
+My courses include programming, databases, web development, and DevOps.
+
+The programming courses include labs and assignments where I apply what I learn.
+Using Git helps me save different versions of my work and track changes between them.
