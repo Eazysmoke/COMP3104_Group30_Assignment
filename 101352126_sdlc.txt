@@ -1,0 +1,7 @@
+DevOps in the Software Development Lifecycle
+Mechel Fernando - 101352126
+
+The software development lifecycle includes planning, design, development, testing, deployment, and maintenance.
+DevOps helps connect these stages through teamwork and automation.
+Developers can make small updates and use automated checks to catch problems before releasing them.
+Version control keeps a history of changes so the team can review earlier work when troubleshooting.
